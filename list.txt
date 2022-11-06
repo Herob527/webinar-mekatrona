@@ -1,0 +1,318 @@
+wavs/vo_1004~dx_CeleOrcName063.ogg|Holza.
+wavs/vo_100~dx_CeleOrcName027.ogg|Felgrat.
+wavs/vo_1011~dx_Ca03_065b_020_Cb.ogg|Yt ys ap tu as Taljon!
+wavs/vo_1013~dx_GoS01_060_020_Cb.ogg|Taljon, minas ifyl ys lost. Bat modo kan bi ałez.
+wavs/vo_1016~dx_Go02_045_030_Cb.ogg|Łe de maneř of spikin.
+wavs/vo_1018~dx_In01_070_010_Cb.ogg|De. His majnd ys łik.
+wavs/vo_1025~dx_CeleOrcName074.ogg|Skof.
+wavs/vo_1028~dx_BlS03_050_010_Cb.ogg|Łiw icz tał łi řiklejm, de łiczking wiżyn dymynyszys.
+wavs/vo_1029~dx_CeleOrcName036.ogg|Krug.
+wavs/vo_1030~dx_Bl01_215_150_Cb.ogg|Du not slej de aczes. Dominejt dem. Dej a tu bi ała amy.
+wavs/vo_1049~dx_CeleOrcName137.ogg|Gasz.
+wavs/vo_1062~dx_CeleOlogName017.ogg|Archenog.
+wavs/vo_1067~dx_BlS05_030_020_Cb.ogg|Łi mast łekowe dem!
+wavs/vo_106~dx_CeleOrcName104.ogg|Ukbuk.
+wavs/vo_1071~dx_CeleOlogName025.ogg|Ardżanek.
+wavs/vo_1073~dx_BlS01_050_010_Cb.ogg|Łat haf te hajdija rewild!
+wavs/vo_1090~dx_Bl01_215_090_Cb.ogg|A fajn adiszyn tu a amy.
+wavs/vo_1092~dx_RaS04_020_030_Cb.ogg|Łendże is ekspendybyl. A płajojiti szud bi mejkin an ekzampyl of břuz.
+wavs/vo_1096~dx_Go02_045_010_Cb.ogg|Łi fod łel. Tu wel. Idżłil nids mo tajm.
+wavs/vo_1097~dx_CeleOrcName034.ogg|Hura.
+wavs/vo_1099~dx_Sh01_110_020_Talion.ogg|Lets fajnd ałt łat hi nołz.
+wavs/vo_1106~dx_CeleOrcName007.ogg|Hor hog.
+wavs/vo_1108~dx_Ca01_010a_020_Cb.ogg|Oł Kanan ys noł kłicze. szi is nejcza ytself.
+wavs/vo_110~dx_CeleOrcName083.ogg|Wula.
+wavs/vo_1118~dx_CeleOlogName044.ogg|Ułer heku.
+wavs/vo_111~dx_Ra03_160_020_Cb.ogg|He łot get fa. Łi łyl fajnd hym an jus tu szoł ol of modo, łat hapyns tu dołz hu opołs de błajt lod.
+wavs/vo_1120~dx_CeleOrcName107.ogg|Zogdusz.
+wavs/vo_1122~dx_CeleOlogName007.ogg|Az teru.
+wavs/vo_1124~dx_CeleOlogName030.ogg|Ur hakąn.
+wavs/vo_112~dx_Ca02_120_020_Cb.ogg|Dat kanot hapyn.
+wavs/vo_1134~dx_BlS01_030_060_Cb.ogg|De nazgul haf dilings łyf speszial oks! Łat a dej?!
+wavs/vo_1141~dx_Ra00_010_035_Cb.ogg|Aj lajk hym.
+wavs/vo_114~dx_CeleOrcName099.ogg|Pijgug.
+wavs/vo_1153~dx_CeleOlogName015.ogg|Arplatu.
+wavs/vo_1156~dx_Go05_080_010_Cb.ogg|Szis a człu łorja. Szi fijez nofi enimo.
+wavs/vo_1160~dx_In01_160_040_Cb.ogg|Hija łi si ol łat has bin lost. And ol dat łyl bi lost yf hys kořapszyn ys alołd tu alał tu łityn.
+wavs/vo_1169~dx_Fi01_220f_010_Cb.ogg|Ju łyl sew, de břajt lod!
+wavs/vo_1170~dx_Bl01_105_110_Cb.ogg|Łi mas get de łin!
+wavs/vo_1171~dx_CeleOrcName072.ogg|řatanag.
+wavs/vo_1179~dx_CeleOrcName020.ogg|Amug.
+wavs/vo_117~dx_CeleOrcName061.ogg|Buf.
+wavs/vo_1184~dx_CeleOrcName110.ogg|Dug za.
+wavs/vo_1188~dx_SotPMtnPass01_010_010_Cb.ogg|Afedad. De wełczju of obidjens. Den as nał, řejsin an ami in modo ment owełelmin de oks łi de desplej of pała. Dat pała łas de łan łing.
+wavs/vo_1189~dx_Bl01_105_090_Cb.ogg|De łin Taljon!
+wavs/vo_1192~dx_Bl01_105_120_Cb.ogg|Yf de nazgul get maj łin fřom szilob, ol ys lost!
+wavs/vo_1194~dx_CeleOrcName143.ogg|Og.
+wavs/vo_1195~dx_SotPIsland03_020_010_Cb.ogg|Aj břot sałřon tu de błink of difit. Bat dżastys has iludyd mi. Soł fa.
+wavs/vo_1198~dx_CeleOrcName140.ogg|Gruk.
+wavs/vo_120~dx_CeleOrcName040.ogg|Mu grisz.
+wavs/vo_1218~dx_CeleOrcName129.ogg|Muzu.
+wavs/vo_1225~dx_CeleOlogName019.ogg|Arsaku.
+wavs/vo_1226~dx_Bl01_060_650_BrightLord.ogg|Ju a banyszd!
+wavs/vo_1227~dx_CeleOrcName123.ogg|Tuhon.
+wavs/vo_1237~dx_CeleOrcName120.ogg|Snafu.
+wavs/vo_123~dx_CeleOrcName102.ogg|Tuka.
+wavs/vo_1241~dx_Sh03_030_030_Cb.ogg|Łat břings teror tu a enemy ys ys waljuabyl tu as.
+wavs/vo_1246~dx_RaS05_030e_030_Cb.ogg|De did nofin!
+wavs/vo_1252~dx_CeleOlogName021.ogg|Ar baruk.
+wavs/vo_1256~dx_Sh02_050_020_Cb.ogg|Nał ys de tajm tu szczłajk.
+wavs/vo_125~dx_Bl01_105_100_Cb.ogg|Łi mas get tu szilob bifo nazgul owełhelm he!
+wavs/vo_1263~dx_Ca03_070c_010_Cb.ogg|Nał! Łi mas etak!
+wavs/vo_1268~dx_Sh01_010_060_Cb.ogg|Yf łi fajnd di uruk bodigads his tageting, łil fajnd di asasyn.
+wavs/vo_1274~dx_Sh02_030c_020_Cb.ogg|Dis is deř hołm.
+wavs/vo_1275~dx_SotPIsland01_010_010_Cb.ogg|Belas. Di oks łespekts stłengf. Łeder koms fřom a głałg a łoczif. Oř a řin. Jet in modo posesin stłengf also mejks łan a temptin taget.
+wavs/vo_1277~dx_Bl01_240_010_Cb.ogg|Łi łyl also řekłaja komandez. Eksepszional oks hu kan du mo dan simpli sewes fode.
+wavs/vo_1280~dx_CeleOrcName049.ogg|Ruk dug.
+wavs/vo_1282~dx_Sh01_200_020_Cb.ogg|A fols człej. His a smat łan.
+wavs/vo_1284~dx_Bl01_215_120_Cb.ogg|De sewents of de dak lod bikom ałez.
+wavs/vo_1285~dx_CaS02_037_010_Cb.ogg|Taljon. Łi mas pjurifaj de totems.
+wavs/vo_1287~dx_In01_160_010_Cb.ogg|Dis hajdija aba dak imitejszyns of e palantija. Bat łi ken teřn Sałron lołkřaft egenst hym.
+wavs/vo_1298~dx_Sh03_010_030_Cb.ogg|Tejk as tu hym.
+wavs/vo_129~dx_CeleOlogName045.ogg|Az gan.
+wavs/vo_1303~dx_BlS02_040_010_Cb.ogg|Łe a de kaptyns hu łud bikom czołzen!
+wavs/vo_1313~dx_SotPMinasIthil01_020_010_Cb.ogg|Fodżin łings of pała sims řekles. Tu dojs huz peti fijaz owekom dem wyżyn. A człu křijejta aksepts noł limitejszyn on ynwenszyn.
+wavs/vo_1314~dx_Bl04_090_030_Cb.ogg|Hi słels hys řanks as fast as łi diplit dem. Der is no szczłonge enemi.
+wavs/vo_1319~dx_CeleOrcName121.ogg|Kof.
+wavs/vo_131~dx_CeleOrcName109.ogg|Zun.
+wavs/vo_1327~dx_Bl01_215_160_Cb.ogg|Mo de folen enemyz. Łat łi nid ys liwin soldżez.
+wavs/vo_133~dx_Fi01_220b_020_Cb.ogg|Ju łyl sumit tu mi!
+wavs/vo_1340~dx_BlS01_030_040_Cb.ogg|Kłesczyn de łoms, dont elymynejt dem.
+wavs/vo_1352~dx_CaS01_050a_010_Cb.ogg|Łi mas pedż dys blajt.
+wavs/vo_1355~dx_Ca01_045a_010_Cb.ogg|Szi ys łoczin as.
+wavs/vo_1357~dx_Bl01_215_110_Cb.ogg|Anode aroł in ałe kłiwe.
+wavs/vo_1365~dx_In01_060_020_Cb.ogg|En dej kud lid as tu da palantija. Łi mast fajn a łom en mejk him tok.
+wavs/vo_136~dx_CeleOrcName068.ogg|Mozu.
+wavs/vo_1393~dx_CeleOlogNameBruz.ogg|Bruz.
+wavs/vo_1394~dx_CaS01_090_010_Cb.ogg|Dys zog ys dendżeřys. Hys akolajt pehaps mosoł.
+wavs/vo_1396~dx_CeleOrcName127.ogg|Mug.
+wavs/vo_1409~dx_Go01_090_010_Cb.ogg|Ju put a lot of człast yn he.
+wavs/vo_1428~dx_CaS04_010_020_Cb.ogg|Łi mas desczłoj de totems.
+wavs/vo_1434~dx_Fi01_220b_040_Cb.ogg|Ju łil tejk nofin mo from mi!
+wavs/vo_143~dx_Go01_040_030_Cb.ogg|Hije dej kam!
+wavs/vo_1490~dx_CeleOlogName041.ogg|Ur masi.
+wavs/vo_1493~dx_BlS01_030_010_Cb.ogg|Łi nid de łoms alajw.
+wavs/vo_1496~dx_In01_075_010_Cb.ogg|Łe kaptyn lidin e secz ys yn lołe sitiy.
+wavs/vo_1499~dx_BlS03_010_020_Cb.ogg|Hařy! Dej mas not řiklejm de hajdija.
+wavs/vo_1503~dx_In01_155_008_Cb.ogg|Luk.
+wavs/vo_1505~dx_CeleOlogNameGaz.ogg|Gaz.
+wavs/vo_1518~dx_CeleOrcName076.ogg|Ta kra.
+wavs/vo_1531~dx_CaS02_037b_020_Cb.ogg|Łi nid tu dismałt, tu pjuryfaj de tołtems!
+wavs/vo_1533~dx_CeleOrcName105.ogg|Uk szak.
+wavs/vo_154~dx_RaS03_040_020_Cb.ogg|Dys łas a łejst of tajm.
+wavs/vo_1560~dx_CeleOlogName006.ogg|As grels.
+wavs/vo_156~dx_CeleOrcName024.ogg|Bor gul.
+wavs/vo_1576~dx_Bl04_090_050_Cb.ogg|Fo a sczłengf at kan bi juz tu a adwantydż.
+wavs/vo_1581~dx_Sh02_055_030_Cb.ogg|Bi łery taljon. Ju człast he tu izly.
+wavs/vo_1592~dx_RaS05_030e_020_Cb.ogg|Szutin de baryls nał ły du nofin!
+wavs/vo_1595~dx_CeleOlogName035.ogg|Ur kal mar.
+wavs/vo_1615~dx_Bl01_215_130_Cb.ogg|Oł ředi a ami konsjums dat of de dak lod.
+wavs/vo_1630~dx_Ca01_020b_020_Cb.ogg|Dominejt hym. And ju łyl haf de człuf.
+wavs/vo_1632~dx_CeleOrcName077.ogg|Tum horn.
+wavs/vo_1651~dx_Go01_050_020_Cb.ogg|Den ebyl onli bi a mate of tajm tu lifajn de palantije.
+wavs/vo_1659~dx_Ca03_040_110_Cb.ogg|Taljyn, luk ap! Łi mas brin dałn di ajs! 
+wavs/vo_165~dx_CeleOrcName139.ogg|Gram.
+wavs/vo_166~dx_CeleOrcName070.ogg|Pasz.
+wavs/vo_1677~dx_Bl015_030_360_Cb.ogg|De lajt of galadżyjel ys gřejte dan his fałl madżik.
+wavs/vo_1680~dx_RaS05_030e_010_Cb.ogg|Sejf de bařyls fo břuz.
+wavs/vo_1692~dx_Ca03_070c_020_Cb.ogg|Let as fol apan yt!
+wavs/vo_1697~dx_CeleOlogName008.ogg|Aza gór.
+wavs/vo_1747~dx_Bl01_105a_250_Cb.ogg|A onli hołp ys de lajt of galadżyjel.
+wavs/vo_1753~dx_Bl01_060_630_BrightLord.ogg|Sofe mi!
+wavs/vo_1789~dx_Go01_035_020_Cb.ogg|Dis szud help!
+wavs/vo_178~dx_CeleOrcName069.ogg|Ofa.
+wavs/vo_179~dx_Sh02_030d_010_Cb.ogg|Dats de last of di aczes.
+wavs/vo_1804~dx_CeleOrcName141.ogg|Gubu.
+wavs/vo_1808~dx_CaS03_020_020_Cb.ogg|Kłikli Taljyn!
+wavs/vo_1809~dx_Fi01_220c_020_Cb.ogg|Dys ys de pałer of de břajt lod!
+wavs/vo_1817~dx_Bl01_105_150_Cb.ogg|Łi mast hařy!
+wavs/vo_1820~dx_Sh01_200_030_Cb.ogg|Ys człejl haz gon kołd.
+wavs/vo_1829~dx_CeleOlogName022.ogg|Ar karoł.
+wavs/vo_1831~dx_CeleOlogName003.ogg|Az tarmo.
+wavs/vo_1838~dx_BlS01_060_010_Cb.ogg|De czołzen! Łe du dej kom fřom!
+wavs/vo_1853~dx_RaS05_030e_040_Cb.ogg|Deř ys a bete juz fo dołs bařylz!
+wavs/vo_185~dx_CeleOrcName092.ogg|Narug.
+wavs/vo_1874~dx_Ca02_053_010_Cb.ogg|Taljon. It has bigan. De balřog ys řajzin.
+wavs/vo_1881~dx_CeleOlogName029.ogg|Argul.
+wavs/vo_1895~dx_Ca03_040_120_Cb.ogg|Tajlon! De stalaktajs!
+wavs/vo_190~dx_CeleOrcName089.ogg|Lugnak.
+wavs/vo_1918~dx_CaS06_030a_020_Cb.ogg|An ami in łejtin.
+wavs/vo_1921~dx_CeleOlogName027.ogg|Ar benu.
+wavs/vo_1938~dx_CeleOrcName133.ogg|Bork.
+wavs/vo_1943~dx_Fi01_220b_010_Cb.ogg|Jo tajm ys ołwe!
+wavs/vo_1956~dx_CeleOlogName005.ogg|Az řanz.
+wavs/vo_1960~dx_CaS04_050a_030_Cb.ogg|Łi mas  řetan tu kanan. Nał!
+wavs/vo_1962~dx_Ca01_025b_020_Cb.ogg|De a dułin sałřon łok.
+wavs/vo_1963~dx_CeleOrcName136.ogg|Garl.
+wavs/vo_1970~dx_In01_076b_020_Cb.ogg|De łejf wold łil riwil his přezynts.
+wavs/vo_198~dx_RaS03_035_010_Cb.ogg|řan!
+wavs/vo_1991~dx_In01_080_050_Cb.ogg|En je dej kontinju tu fajt.
+wavs/vo_19~dx_CeleOrcName117.ogg|Zugol.
+wavs/vo_200~dx_CeleOrcName065.ogg|Kaa kaa.
+wavs/vo_2043~dx_CeleOlogNameBaz.ogg|Az.
+wavs/vo_2084~dx_CeleOrcName126.ogg|Log
+wavs/vo_2088~dx_In01_110_010_Cb.ogg|Teljon. De boł.
+wavs/vo_2096~dx_CeleOlogName018.ogg|Arkajus.
+wavs/vo_209~dx_CeleOrcName011.ogg|Mal mug.
+wavs/vo_2146~dx_CeleOrcName122.ogg|řatag.
+wavs/vo_214~dx_CeleOrcName057.ogg|U gu.
+wavs/vo_2159~dx_CeleOlogName043.ogg|Ur edin.
+wavs/vo_2172~dx_Ca01_080_020_Cb.ogg|In ol yts fjury.
+wavs/vo_2175~dx_CeleOrcName124.ogg|Baga.
+wavs/vo_2200~dx_CeleOlogName026.ogg|Ar hisu.
+wavs/vo_221~dx_CeleOrcName029.ogg|Gluk.
+wavs/vo_2222~dx_BlS03_010_050_Cb.ogg|Szi kud bi łoczin as řajt nał.
+wavs/vo_2238~dx_Go01_040_040_Cb.ogg|Enoder sit bist ys yn řendż. Desczłoj yt!
+wavs/vo_2242~dx_Bl015_020_030_Cb.ogg|Łi a hija fo de palantija. Dat ys ol e matez.
+wavs/vo_2249~dx_In01_135_090_Cb.ogg|Sałrons ło has onli bigan.
+wavs/vo_2286~dx_CeleOrcName135.ogg|Fu bar.
+wavs/vo_2287~dx_Go01_040_010_Cb.ogg|Szutin dołs iksplołzys szud subju de bist!
+wavs/vo_2298~dx_Bl01_060_620_BrightLord.ogg|Ju a kast ałt!
+wavs/vo_229~dx_CeleOrcName042.ogg|Mormok.
+wavs/vo_2325~dx_CeleOlogName040.ogg|Ur lasu.
+wavs/vo_232~dx_CeleOrcName098.ogg|Ol lok.
+wavs/vo_2335~dx_BlS01_030_030_Cb.ogg|A ded łom kan tel as łat hi nołs Taljon.
+wavs/vo_2344~dx_RaS04_020_010_Cb.ogg|Břuz dazyn ekspekt ys. Łi szud sczłajk nał.
+wavs/vo_2352~dx_CaS02_050_020_Cb.ogg|En ami do řajwal ałez.
+wavs/vo_2365~dx_CeleOlogName034.ogg|Ur lisak.
+wavs/vo_2369~dx_Bl01_105_130_Cb.ogg|Łajl ju dylej, de nazgul get klołse tu maj řin.
+wavs/vo_2371~dx_Fi01_220b_030_Cb.ogg|Ol of midylef szal bi majn!
+wavs/vo_2378~dx_Sh01_200_040_Cb.ogg|Noł. Dyz yzynt de łajt człel.
+wavs/vo_237~dx_Bl01_060_640_BrightLord.ogg|řityn tu jo maste!
+wavs/vo_2387~dx_Bl01_105a_220_Cb.ogg|Tugede dej łild a teribyl pała! 
+wavs/vo_2396~dx_Go01_060a_080_Cb.ogg|Łi pusz dem bak. Fo nał.
+wavs/vo_2403~dx_CaS01_070g_010_Cb.ogg|Łi mast dżłejn de totem of yts pała.
+wavs/vo_2409~dx_Ra01_050_030_Cb.ogg|His potenszjal ys niřli anlimityd.
+wavs/vo_240~dx_CeleOrcName013.ogg|Orl fog.
+wavs/vo_242~dx_CeleOrcName047.ogg|Rasz.
+wavs/vo_243~dx_CeleOrcName002.ogg|Brog.
+wavs/vo_245~dx_Bl01_215d_191_Cb.ogg|Let as test a łories.
+wavs/vo_24~dx_Sh02_010_020_Cb.ogg|Łan łoczif mejks lityl dyfrynts.
+wavs/vo_253~dx_CeleOrcName097.ogg|Og flak.
+wavs/vo_254~dx_CeleOrcName055.ogg|Frak.
+wavs/vo_262~dx_CeleOrcName041.ogg|Mugluk.
+wavs/vo_270~dx_CeleOrcName052.ogg|Skun.
+wavs/vo_272~dx_CeleOlogName024.ogg|Ar beka.
+wavs/vo_275~dx_CeleOrcName103.ogg|Tumug.
+wavs/vo_282~dx_CeleOrcName012.ogg|Mog.
+wavs/vo_28~dx_CeleOrcName025.ogg|Ubol.
+wavs/vo_291~dx_CaS02_037b_010_Cb.ogg|Tajlyn! Łi mas dismałt.
+wavs/vo_293~dx_BlS01_040_010_Cb.ogg|Łot ys de pupus of de czołzen!
+wavs/vo_298~dx_CeleOrcName008.ogg|Kofug.
+wavs/vo_311~dx_CeleOrcName075.ogg|Snagog.
+wavs/vo_313~dx_CeleOrcName142.ogg|Hoglik.
+wavs/vo_315~dx_CeleOrcName045.ogg|Křag.
+wavs/vo_318~dx_CeleOrcName115.ogg|Moz fel.
+wavs/vo_328~dx_In01_160_030_Cb.ogg|Łi łyl pjuryfaj dem and mejk dem ałez.
+wavs/vo_338~dx_Ca03_020_020_Cb.ogg|Tař Gorof łyl not bi dificult to fajnd.
+wavs/vo_339~dx_Ca03_065a_030_Cb.ogg|Das yt mata?!
+wavs/vo_345~dx_CeleOrcName022.ogg|Barfa.
+wavs/vo_353~dx_CeleOrcName088.ogg|Krimp.
+wavs/vo_35~dx_Go03_100_010_Cb.ogg|Łi kenot łejt eni longe o łi łysk luzin de palatije.
+wavs/vo_363~dx_CeleOrcName100.ogg|Rug.
+wavs/vo_374~dx_CeleOrcName016.ogg|Szag flak.
+wavs/vo_378~dx_Ca01_010a_040_Cb.ogg|Taljon. Łi mast muw ływ gřejt koszyn.
+wavs/vo_379~dx_CeleOrcName048.ogg|Rhonk.
+wavs/vo_380~dx_CeleOrcName054.ogg|Fa krak.
+wavs/vo_383~dx_CeleOrcName090.ogg|Ma ku.
+wavs/vo_385~dx_CeleOrcName004.ogg|Flak.
+wavs/vo_389~dx_CeleOrcName001.ogg|Bagabug.
+wavs/vo_394~dx_CeleOrcName019.ogg|Zafra.
+wavs/vo_397~dx_CeleOrcName084.ogg|Grisza.
+wavs/vo_398~dx_CeleOrcName032.ogg|Grublyk.
+wavs/vo_399~dx_CaS06_020_020_Cb.ogg|A nekromantse ys newe třuli ded.
+wavs/vo_406~dx_CeleOrcName087.ogg|Kra khon.
+wavs/vo_410~dx_CeleOrcName017.ogg|Taz.
+wavs/vo_422~dx_Ra02_100_030_Cb.ogg|Ol hu řezyst łyl by mejd an egzampyl of!
+wavs/vo_423~dx_CeleOrcName028.ogg|Folgum.
+wavs/vo_433~dx_CeleOrcName093.ogg|Naz dug.
+wavs/vo_442~dx_Bl01_215d_141_Cb.ogg|De a pałeřles tu řyzyst.
+wavs/vo_443~dx_CeleOrcName081.ogg|Blorg.
+wavs/vo_449~dx_RaS05_010_030_Cb.ogg|Najł tu mejk an egzampyl of břuz.
+wavs/vo_455~dx_CeleOrcName051.ogg|Skog.
+wavs/vo_456~dx_CeleOrcName113.ogg|Iszgra.
+wavs/vo_466~dx_CeleOrcName064.ogg|Hosz grisz.
+wavs/vo_468~dx_CeleOlogNameDaz.ogg|Daz.
+wavs/vo_469~dx_CeleOlogName036.ogg|Ur benu.
+wavs/vo_473~dx_CeleOlogName031.ogg|Ur dag.
+wavs/vo_476~dx_CeleOrcName039.ogg|Luga.
+wavs/vo_479~dx_Bl01_215_100_Cb.ogg|Hi łyl sew as łel.
+wavs/vo_484~dx_CeleOrcName030.ogg|Gołm.
+wavs/vo_493~dx_CeleOrcName085.ogg|Humgrad.
+wavs/vo_496~dx_CeleOrcName114.ogg|Lug dasz.
+wavs/vo_499~dx_CeleOrcName132.ogg|Dugz.
+wavs/vo_520~dx_CeleOrcName078.ogg|Usz gol.
+wavs/vo_521~dx_CeleOrcName066.ogg|Lat bag.
+wavs/vo_523~dx_CeleOrcName026.ogg|Dag.
+wavs/vo_524~dx_CeleOrcName086.ogg|Iszmoz.
+wavs/vo_525~dx_CeleOrcName044.ogg|Olgof.
+wavs/vo_526~dx_CeleOrcName080.ogg|Asz garn.
+wavs/vo_52~dx_CeleOrcName050.ogg|Skak.
+wavs/vo_536~dx_CeleOrcName005.ogg|Hram
+wavs/vo_53~dx_CeleOrcName119.ogg|Golof.
+wavs/vo_541~dx_CeleOrcName043.ogg|Ok burl.
+wavs/vo_558~dx_CeleOrcName108.ogg|Zumug.
+wavs/vo_571~dx_CeleOrcName056.ogg|Tolz.
+wavs/vo_578~dx_Ca02_090_010_Cb.ogg|Tajlyn! Łi mast fajer intu yts bek!
+wavs/vo_586~dx_CeleOrcName094.ogg|Na zu.
+wavs/vo_587~dx_Go01_040a_060_Cb.ogg|Pity łi kan tejk it ływ as. Yts a fomidybyl łepyn.
+wavs/vo_588~dx_Bl015_030_190_Cb.ogg|His haz łobd as of a folołez.
+wavs/vo_590~dx_CeleOrcName112.ogg|Hoszu.
+wavs/vo_591~dx_Bl01_060_610_BrightLord.ogg|řytyn tu daknes!
+wavs/vo_595~dx_CeleOrcName062.ogg|Gunza.
+wavs/vo_603~dx_CeleOrcName033.ogg|Hork.
+wavs/vo_606~dx_CeleOrcName037.ogg|Kuga luga.
+wavs/vo_607~dx_Go01_010_070_Cb.ogg|Den łi mast obtejn e palantije! Yt ys de onli łej!
+wavs/vo_60~dx_CeleOrcName144.ogg|Zuka.
+wavs/vo_619~dx_CeleOrcName058.ogg|U krom.
+wavs/vo_622~dx_CeleOrcName118.ogg|Gimub.
+wavs/vo_636~dx_CeleOrcName096.ogg|Noruk.
+wavs/vo_649~dx_CeleOrcName003.ogg|Duszłat.
+wavs/vo_652~dx_CeleOrcName018.ogg|Uga kuga.
+wavs/vo_662~dx_CeleOlogName004.ogg|Az bror.
+wavs/vo_665~dx_CeleOrcName031.ogg|Gor gum.
+wavs/vo_687~dx_CeleOlogName000.ogg|Az adam.
+wavs/vo_691~dx_CeleOlogName002.ogg|Az lar.
+wavs/vo_697~dx_CeleOrcName014.ogg|Pu grisz.
+wavs/vo_69~dx_CeleOrcName125.ogg|Szag
+wavs/vo_702~dx_Go01_030_010_Cb.ogg|Taljon. Łi mas komandija łan of e sidż bist.
+wavs/vo_715~dx_CeleOrcName082.ogg|Fel dusz.
+wavs/vo_716~dx_Ca01_025a_020_Cb.ogg|De tu a bałnd tugede. Dat ys Kanan.
+wavs/vo_723~dx_In01_155_030_Cb.ogg|Not wiwałt de palantije.
+wavs/vo_731~dx_CeleOrcName015.ogg|Rat lug.
+wavs/vo_75~dx_Sh01_200_010_Cb.ogg|Hi mas dablyd bak.
+wavs/vo_769~dx_CeleOrcName128.ogg|Gund.
+wavs/vo_770~dx_CeleOrcName079.ogg|U fug.
+wavs/vo_783~dx_CeleOrcName131.ogg|Uszak.
+wavs/vo_806~dx_CeleOrcName010.ogg|Lom.
+wavs/vo_814~dx_CeleOrcName095.ogg|Norsgo.
+wavs/vo_826~dx_CeleOrcName009.ogg|Kuga.
+wavs/vo_834~dx_CeleOrcName060.ogg|Az dusz.
+wavs/vo_837~dx_Ca01_080_040_Cb.ogg|An das no řizyn łyf de łynd.
+wavs/vo_841~dx_Bl015_030_340_Cb.ogg|De last of de galadżyjel řepels hys daknes!
+wavs/vo_844~dx_CeleOrcName038.ogg|Lamlug.
+wavs/vo_846~dx_CeleOrcName111.ogg|Dusz.
+wavs/vo_847~dx_CeleOrcName130.ogg|Ugol.
+wavs/vo_857~dx_Sh01_060_020_Cb.ogg|Łi a getin klołse.
+wavs/vo_85~dx_CeleOrcName023.ogg|Bolg.
+wavs/vo_863~dx_CeleOrcName073.ogg|Sza ka.
+wavs/vo_864~dx_CeleOrcName059.ogg|Zog.
+wavs/vo_868~dx_CeleOrcName091.ogg|Na kra.
+wavs/vo_873~dx_CeleOrcName101.ogg|Tugog.
+wavs/vo_878~dx_CeleOrcName071.ogg|Pug.
+wavs/vo_897~dx_CeleOrcName067.ogg|Muzglob.
+wavs/vo_902~dx_BlS01_020_030_Cb.ogg|If łi tejk dem alajf.
+wavs/vo_916~dx_CaS03_060_020_Cb.ogg|Łi mast fajnd him bifo hi řejzys hys ołn amy.
+wavs/vo_931~dx_CeleOrcName035.ogg|Krosz.
+wavs/vo_932~dx_CeleOrcName021.ogg|Az grom.
+wavs/vo_935~dx_Ca01_065_010_Cb.ogg|Kipe of de łald! Kanan!
+wavs/vo_93~dx_CeleOrcName046.ogg|Pusz krimp.
+wavs/vo_945~dx_CeleOrcName000.ogg|A kof.
+wavs/vo_947~dx_SotP00_010_010_Cb.ogg|If eniłe yn modo ys sejf fřom sałřon yt ys bařels lajk dis. řemajndes dat iwyn de dak lods řicz ikstends onli soł fa.
+wavs/vo_968~dx_CeleOrcName116.ogg|Naz kuga.
+wavs/vo_975~dx_CeleOlogName039.ogg|Ur gram.
+wavs/vo_977~dx_CeleOrcName053.ogg|Stakuga.
+wavs/vo_979~dx_Ra01_075_010_Cb.ogg|Nał, łi haw a futhold in modo.
+wavs/vo_97~dx_CaS05_005_020_Cb.ogg|Łi ken łejst noł tajm.
+wavs/vo_986~dx_CeleOrcName006.ogg|Gorfel.
+wavs/vo_997~dx_CeleOrcName106.ogg|Usz baka.
